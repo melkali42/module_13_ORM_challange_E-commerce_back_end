@@ -58,6 +58,16 @@ router.get('/:id', (req, res) => {
   })
 });
 
+router.post('/', (req, res) => {
+ Tag.create({
+    category_name: req.body.category_name
+  })
+  .then(Data => res.json(Data))
+  .catch(err => {
+    res.status(500).json(err);
+  });
+});
+
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(
