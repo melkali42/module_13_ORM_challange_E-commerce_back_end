@@ -34,9 +34,12 @@ This is the URL for my GitHub repository for this challenge: https://github.com/
 
 This is the link for the walkthrough video demonstrating the functionality of the application: https://drive.google.com/file/d/1vVDMQZY9tuJp3ALuG2JRTU13fohHd3CB/view
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot1](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/mysql.PNG)
+![Screenshot2](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/seed.PNG)
+![Screenshot3](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/starting%20the%20server.PNG)
+![Screenshot4](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/Insomnia%20categories.PNG)
+![Screenshot5](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/Insomnia%20products.PNG)
+![Screenshot6](https://github.com/melkali42/module_13_ORM_challenge_E-commerce_back_end/blob/main/utils/images/Insomnia%20tags.PNG)
 
 ## Credits
 
